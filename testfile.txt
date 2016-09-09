@@ -1,3 +1,3 @@
 This is the file to check commit conflict
 
-saurabh has made changes  in this line
+since sanjeev has made changes he should get the emailnotification
